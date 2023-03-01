@@ -334,7 +334,7 @@ body {
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        border-color: var(--color-bg-button);
+        border-color: currentColor;
         transition-property: color, border-color;
         transition-duration: 250ms;
         transition-timing-function: var(--transition)
